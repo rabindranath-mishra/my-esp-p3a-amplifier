@@ -1,2 +1,5 @@
-# my-esp-p3a-amplifier
-My ESP P3A Amplifier build.
+# My ESP P3A Amplifier build Y2026
+
+I have been making my own audio equipment since I was a teenager. I feel, if you know electronics its better to build your own, you can build something that is of high quality, as per your liking and at a fraction of cost of a mediocre commercial unit. For that matter I build anything that I feel is not worth the money to pay, particularly in the domain of computers, electronics and anything that can be printed using a 3d printer. Fortunately all three are my hobbies.
+
+In 2013-14 I build a amplifier for my home as my hometheter (not a great one) that, I got as a marriage gift, gone bad and service was not worth the money neither I was ready to pay huge amount of money to buy what I like. At that time I did some research and reached at the conclusion to build the popular DIY amplifier designed by one of my inspiration Rod Elliot. The [ESP P3A](https://www.sound-au.com/project3a.htm).
