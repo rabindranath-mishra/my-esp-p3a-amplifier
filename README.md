@@ -157,10 +157,10 @@ During assembly, testing, and listening sessions, I implemented two crucial opti
 
 A professional amplifier deserves a chassis that matches its electrical performance.
 
-* **Chassis & Aesthetics**: Housed in a rigid steel enclosure with a custom CNC-milled, bead-blasted anodized aluminum front panel with heavy-duty rack handles. A center-mounted, flush stainless-steel pushbutton switch with a soft LED halo provides a clean, minimalist face. Gold-accented isolation feet decouple the chassis from furniture vibrations.
+* **Chassis & Aesthetics**: Housed in a rigid steel enclosure with a custom laser-cut aluminum front panel with heavy-duty rack handles. A center-mounted, flush stainless-steel pushbutton switch with a soft LED halo provides a clean, minimalist face. Gold-accented isolation feet decouple the chassis from furniture vibrations.
 * **Thermal Management**: The amplifier boards are bolted to a generous finned aluminum heatsink. Two low-RPM, whisper-quiet exhaust fans with chrome wire grilles pull cool air directly through the heatsink fins and exhaust it out the rear panel, keeping operating temperatures barely lukewarm even during long, loud listening sessions.
 * **Rear Panel Connectivity**:
-  * Filtered IEC mains power inlet with an integrated fuse holder and master rocker switch.
+  * Standard IEC mains power inlet socket paired with an independent panel-mount chassis fuse holder for primary AC mains protection.
   * Heavy-duty, gold-plated 5-way speaker binding posts accepting bare wire, spades, or banana plugs.
   * Professional **MX 6.35 mm TRS Female Jack Secure Panel Mount** connectors with positive-locking release latches and isolated chassis bushings for rock-solid, professional audio input connections.
   * **Dedicated Pre-Out Jack**: Provided on the rear panel to feed line-level audio out to an active subwoofer in a future 2.1 setup without needing external signal splitters.
