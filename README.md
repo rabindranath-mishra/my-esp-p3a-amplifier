@@ -162,7 +162,7 @@ A professional amplifier deserves a chassis that matches its electrical performa
 * **Rear Panel Connectivity**:
   * Filtered IEC mains power inlet with an integrated fuse holder and master rocker switch.
   * Heavy-duty, gold-plated 5-way speaker binding posts accepting bare wire, spades, or banana plugs.
-  * Studio-grade Neutrik-style locking RCA/combo input sockets with isolated chassis bushings.
+  * Professional **MX 6.35 mm TRS Female Jack Secure Panel Mount** connectors with positive-locking release latches and isolated chassis bushings for rock-solid, professional audio input connections.
 * **Wiring Discipline**:
   * Mains AC wiring is kept strictly confined to the far-left side of the chassis.
   * High-current DC power leads (yellow/blue) are tightly bundled, zip-tied, and anchored to the chassis floor.
@@ -290,7 +290,7 @@ Building an audiophile-grade amplifier in India is now completely viable with lo
 | **Filter Capacitors** | Bevenbi Audio Grade (10,000 µF / 100 V) | diyaudiocart.com |
 | **Transistors** | Robu.in, MV Collection | Authentic ON Semi NJW0281/NJW0302, BD139/140, BC546 |
 | **Transformer** | Local transformer winder (Bangalore) | 300 VA EI core, $230\text{ V}$ primary, $25\text{--}0\text{--}25\text{ V}$ secondary |
-| **Hardware & Chassis** | 17.5" 2U Cabinet, MV Collection | Finned aluminum heatsink, connectors, gold binding posts |
+| **Hardware & Chassis** | 17.5" 2U Cabinet, MV Collection | Finned aluminum heatsink, MX 6.35 mm TRS locking jacks, gold binding posts |
 
 ---
 
