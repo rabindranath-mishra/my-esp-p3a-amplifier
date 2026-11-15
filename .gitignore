@@ -1,0 +1,7 @@
+# IDE / Editor files
+.vscode/
+.history/
+*/.history/
+
+# KiCad local project settings
+*.kicad_prl
