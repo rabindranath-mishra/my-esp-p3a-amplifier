@@ -163,6 +163,7 @@ A professional amplifier deserves a chassis that matches its electrical performa
   * Filtered IEC mains power inlet with an integrated fuse holder and master rocker switch.
   * Heavy-duty, gold-plated 5-way speaker binding posts accepting bare wire, spades, or banana plugs.
   * Professional **MX 6.35 mm TRS Female Jack Secure Panel Mount** connectors with positive-locking release latches and isolated chassis bushings for rock-solid, professional audio input connections.
+  * **Dedicated Pre-Out Jack**: Provided on the rear panel to feed line-level audio out to an active subwoofer in a future 2.1 setup without needing external signal splitters.
 * **Wiring Discipline**:
   * Mains AC wiring is kept strictly confined to the far-left side of the chassis.
   * High-current DC power leads (yellow/blue) are tightly bundled, zip-tied, and anchored to the chassis floor.
