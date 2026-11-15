@@ -301,7 +301,7 @@ Rebuilding the ESP P3A in 2026 was one of the most rewarding audio projects I ha
 
 How does it sound? Great!; clean, warm, musical, dynamic. 
 
-The combination of the stiff 300 VA transformer and 40,000 µF filter reserve gives the amplifier unflinching grip over the woofer cones. Low-frequency bass notes are fast, punchy, and deeply textured with zero muddiness. The midrange is transparent and organic, rendering acoustic instruments and vocals with uncanny realism. And thanks to the 56 pF Silver Mica Miller capacitor upgrade, the highs are smooth, airy, and fatigue-free even during multi-hour listening sessions. Most impressively, the ground loop breaker and star ground layout ensure the background is pitch black—not even a trace of hiss or hum can be heard with your ear pressed directly against the tweeter.
+The combination of the stiff 300 VA transformer and 40,000 µF filter reserve gives the amplifier unflinching grip over the woofer cones. Low-frequency bass notes are fast, punchy, and deeply textured with zero muddiness. The midrange is transparent and organic, rendering acoustic instruments and vocals with uncanny realism. And thanks to the 56 pF Silver Mica Miller capacitor upgrade, the highs are smooth, airy, and fatigue-free even during multi-hour listening sessions. Most impressively, the ground loop breaker and star ground layout ensure the background is pitch black, a very faint trace of hiss or can be heard with your ear pressed directly against the tweeter though, but virtually inaudible from distance.
 
 If you have been contemplating building your own high-fidelity amplifier, look no further than the ESP P3A. It is a timeless masterpiece of audio engineering that will reward you with decades of musical joy.
 
