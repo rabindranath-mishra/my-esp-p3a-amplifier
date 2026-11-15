@@ -1,6 +1,6 @@
 # My ESP P3A Amplifier Build (Y2026)
 
-![ESP P3A Finished Amplifier](Gallery/front.JPG)
+![ESP P3A Finished Amplifier](Gallery/optimized/front.jpg)
 
 I have been making my own audio equipment since I was a teenager. I firmly believe that if you understand electronics, it is far better to build your own gear. You can craft something of exceptionally high quality, tailored precisely to your personal taste, and at a fraction of the cost of a mediocre commercial unit. For that matter, I build anything that I feel is not worth the retail price tag for its given quality—particularly in the domains of computers, electronics, and anything that can be 3D printed. Fortunately, all three are lifelong hobbies of mine.
 
@@ -8,7 +8,7 @@ Back in 2013–14, I built a stereo power amplifier for my home. My commercial h
 
 That 2013 amplifier was an absolute workhorse. It sounded magnificent and served faithfully for over a decade without missing a single beat. However, I was never 100% satisfied with the physical build. Back then in Bangalore, sourcing authentic, audiophile-grade components was an uphill battle involving difficult international orders, long customs delays, and DIY chemical etching of single-sided copper clad boards in my garage. The final unit lacked a professional finish and involved several mechanical compromises.
 
-![Full Internal Layout](Gallery/top-open.JPG)
+![Full Internal Layout](Gallery/optimized/top-open.jpg)
 
 Fast forward to **2026**: I decided it was time to build a worthy successor. After re-evaluating modern DIY open-source topologies—from Class D modules to complex discrete designs—I reached the unmistakable conclusion that the **ESP P3A** is still King. Its Class AB topology is elegant, highly reliable, and delivers sound quality that easily rivals commercial amplifiers costing thousands of dollars. More importantly, the DIY landscape in India has completely transformed: quality passive components, genuine transistors, fast PCB fabrication (such as JLCPCB), and reputable domestic component distributors are now readily available. In 2026, I could finally build this amplifier to absolute perfection, with zero compromises.
 
@@ -32,7 +32,7 @@ While planning the PCB layouts, I discovered that [gabriel-gearip](https://githu
 
 ## 1. The Amplifier: ESP P3A
 
-![Amplifier Modules on Heatsink](Gallery/amp.JPG)
+![Amplifier Modules on Heatsink](Gallery/optimized/amp.jpg)
 
 ### The Topology
 Rod Elliott's Project 3A is celebrated worldwide for good reason. It is a symmetrical-input, discrete Class AB power amplifier that avoids unnecessary complexity while delivering pristine linearity, wide bandwidth, and unconditional stability into real-world loudspeaker loads.
@@ -55,13 +55,13 @@ This is the sweet spot for domestic high-fidelity listening, providing ample cle
 
 ## 2. The Power Supply
 
-![Linear Power Supply Board](Gallery/power-supply.JPG)
+![Linear Power Supply Board](Gallery/optimized/power-supply.jpg)
 
 An audio amplifier is fundamentally an active valve that modulates raw DC from its power supply into an audio signal. If the power supply is noisy, under-capacitored, or poorly laid out, even the finest amplifier circuit will sound sluggish, hollow, and noisy.
 
 For this build, I designed a dedicated heavy-duty dual-rail linear supply inspired by Texas Instruments' benchmark application report, [AN-1849: An Audio Amplifier Power Supply Design](https://www.ti.com/lit/an/snaa057c/snaa057c.pdf).
 
-![300VA Heavy Transformer](Gallery/transformer.JPG)
+![300VA Heavy Transformer](Gallery/optimized/transformer.jpg)
 
 ### Key Specifications & Design Highlights:
 * **300 VA EI-Core Transformer**: Custom heavy-iron transformer with a $230\text{ V}$ AC primary and a **$25\text{--}0\text{--}25\text{ V}$ AC** center-tapped secondary. Under rectification, this produces clean $\pm 35.3\text{ V}$ DC unloaded, settling to a rock-solid $\pm 34\text{ V}$ to $\pm 35\text{ V}$ under continuous load. Mounted on rubber vibration-damping isolation mounts to eliminate mechanical hum.
@@ -76,7 +76,7 @@ For this build, I designed a dedicated heavy-duty dual-rail linear supply inspir
 
 ## 3. The Soft Start Circuit
 
-![Soft Start PCB](Gallery/soft-start.JPG)
+![Soft Start PCB](Gallery/optimized/soft-start.jpg)
 
 ### The Problem
 A 300 VA linear transformer coupled with a discharged 40,000 µF capacitor bank represents a dead short circuit at the split-second of turn-on. The instantaneous inrush current can spike to **30 to 50+ Amperes**, which routinely trips household miniature circuit breakers (MCBs), stresses or pits the mains power switch, and degrades rectifier diodes over time.
@@ -96,7 +96,7 @@ Inspired by [ESP Project 39](https://www.sound-au.com/project39.htm), I designed
 
 ## 4. The Speaker Protection and Muting: ESP P33
 
-![ESP P33 Speaker Protection PCB](Gallery/p33.JPG)
+![ESP P33 Speaker Protection PCB](Gallery/optimized/p33.jpg)
 
 High-end loudspeakers are a substantial investment. Because direct-coupled solid-state amplifiers like the P3A do not have output transformers or DC-blocking capacitors, a catastrophic failure of an output transistor would immediately dump the full $\pm 35\text{ V}$ DC rail across your loudspeaker's voice coil, burning it to a crisp in fractions of a second.
 
@@ -115,7 +115,7 @@ A dedicated detection input monitors the raw AC line from the transformer second
 
 ## 5. The Ground Loop Breaker
 
-![Chassis Ground Loop Breaker](Gallery/earth-isolation.JPG)
+![Chassis Ground Loop Breaker](Gallery/optimized/earth-isolation.jpg)
 
 Building a truly silent, hum-free audio amplifier requires mastering the art of grounding. 
 
@@ -153,7 +153,7 @@ During assembly, testing, and listening sessions, I implemented two crucial opti
 
 ## Enclosure, Thermal Design & Wiring
 
-![Chassis Back Panel](Gallery/back.JPG)
+![Chassis Back Panel](Gallery/optimized/back.jpg)
 
 A professional amplifier deserves a chassis that matches its electrical performance.
 
@@ -168,7 +168,7 @@ A professional amplifier deserves a chassis that matches its electrical performa
   * High-current DC power leads (yellow/blue) are tightly bundled, zip-tied, and anchored to the chassis floor.
   * Low-level audio input lines use double-shielded, grounded audio cables routed far away from the transformer and AC mains leads.
 
-![Input & Output Internal Wiring](Gallery/input.JPG)
+![Input & Output Internal Wiring](Gallery/optimized/input.jpg)
 
 ---
 
