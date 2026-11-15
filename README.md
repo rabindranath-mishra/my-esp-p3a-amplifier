@@ -263,7 +263,7 @@ flowchart LR
 
 1. **Use a Dim-Bulb Tester**: On initial power-up, wire a $60\text{ W}$ or $100\text{ W}$ incandescent light bulb in series with the AC mains live wire. If there is a short or soldering bridge, the bulb will glow brightly and protect your output transistors from instant destruction. If all is well, the bulb will flare briefly (as the filter caps charge) and then dim to a faint orange glow.
 2. **Pre-Set the Bias Trimpots**: Before applying power, turn the **RV1** multiturn trimpot on both amplifier boards to its **maximum resistance**. This ensures the amplifier turns on with minimum quiescent current (zero bias).
-3. **Verify DC Offset**: With no input signal and no speakers connected, measure the DC voltage across the speaker output terminals. It should read under $\pm 20\text{ mV}$ (typically $5\text{--}15\text{ mV}$).
+3. **Verify DC Offset**: With no input signal and no speakers connected, measure the DC voltage across the speaker output terminals. It should read under $\pm 20\text{ mV}$ (typically $5\text{--}15\text{ mV}$). A offset of < $\pm 100\text{ mV}$ is also fine.
 4. **Set Quiescent Bias Current**:
    * Remove the dim-bulb tester and plug directly into mains.
    * Allow the amplifier to idle for 10 minutes to reach operating temperature.
